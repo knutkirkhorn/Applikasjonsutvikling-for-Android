@@ -2,8 +2,8 @@
 Øvinger fra IINI4001 Applikasjonsutvikling for Android, høsten 2017, 3. klasse dataingeniør på NTNU.
 
 ## Øvinger
-- [Øving 1](Assignment-1)
-- [Øving 2](Assignment-2)
+- [Øving 1: Introduksjon og installasjon](Assignment-1)
+- [Øving 2: Aktiviteter og intensjoner](Assignment-2)
   - [Oppgave 1](Assignment-2/Assignment-2-exercise-1)
   - [Oppgave 2](Assignment-2/Assignment-2-exercise-2)
 
