@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Øving 4 - Bildeviser</string>
+    <string name="movie_title_1">Star Wars Episode I: Den skjulte trussel</string>
+    <string name="movie_title_2">Star Wars Episode II: Klonene angriper</string>
+    <string name="movie_title_3">Star Wars Episode III: Sithene tar hevn</string>
+    <string name="movie_title_4">Star Wars Episode IV: Et nytt håp</string>
+    <string name="movie_title_5">Star Wars Episode V: Imperiet slår tilbake</string>
+    <string name="movie_title_6">Star Wars Episode VI: Jediridderen vender tilbake</string>
+    <string name="movie_desc_1">Filmen er viktig for det som skjer videre i historien, siden det er her vi møter Anakin Skywalker («den utvalgte») som også blir til Darth Vader i episode III.</string>
+    <string name="movie_desc_2">Ti år etter opprinnelig møte, deler Anakin Skywalker en forbudt romanse med Padmé, mens Obi-Wan undersøker et mordforsøk på senatoren og oppdager en hemmelig klonarmé laget for Jedi.</string>
+    <string name="movie_desc_3">Tre år i klonkrigen redder Jedi Palpatine fra Count Dooku. Som Obi-Wan forfølger en ny trussel, fungerer Anakin som en dobbeltagent mellom Jedi-rådet og Palpatine og er lokket inn i en uheldig plan for å herske galaksen.</string>
+    <string name="movie_desc_4">Luke Skywalker knytter sammen med en Jedi Knight, en pilot, en Wookiee og to droider for å redde galaksen fra Empire verdens ødeleggende kampstasjon, samtidig som han forsøker å redde prinsesse Leia fra den onde Darth Vader.</string>
+    <string name="movie_desc_5">Etter at opprørerne er overveldet av imperiet på deres nyopprettede base, starter Luke Skywalker Jedi trening med Master Yoda. Hans venner aksepterer ly fra en tvilsom alliert da Darth Vader hunter dem i en plan for å fange Luke.</string>
+    <string name="movie_desc_6">Etter en dristig oppgave for å redde Han Solo fra Jabba the Hutt, sender opprørerne til Endor for å ødelegge en kraftigere Death Star. I mellomtiden sliter Luke å hjelpe Vader tilbake fra den mørke siden uten å falle inn i keiserens felle.</string>
+
+    <string-array name="move_titles">
+        <item>@string/movie_title_1</item>
+        <item>@string/movie_title_2</item>
+        <item>@string/movie_title_3</item>
+        <item>@string/movie_title_4</item>
+        <item>@string/movie_title_5</item>
+        <item>@string/movie_title_6</item>
+    </string-array>
+
+    <string-array name="movie_description">
+        <item>@string/movie_desc_1</item>
+        <item>@string/movie_desc_2</item>
+        <item>@string/movie_desc_3</item>
+        <item>@string/movie_desc_4</item>
+        <item>@string/movie_desc_5</item>
+        <item>@string/movie_desc_6</item>
+    </string-array>
+
+    <array name="movie_covers">
+        <item>@drawable/star_wars_1</item>
+        <item>@drawable/star_wars_2</item>
+        <item>@drawable/star_wars_3</item>
+        <item>@drawable/star_wars_4</item>
+        <item>@drawable/star_wars_5</item>
+        <item>@drawable/star_wars_6</item>
+    </array>
+</resources>
