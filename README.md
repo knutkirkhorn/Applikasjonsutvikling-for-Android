@@ -11,9 +11,6 @@
 - [Øving 5: Kommunikasjon med omverdenen](Assignment-5)
 - [Øving 6: Sockets](Assignment-6)
 - [Øving 7: Datalagring](Assignment-7)
-- [Øving 8: Spill og grafikk](Assignment-8)
-- [Øving 9: Internasjonalisering og tjenester](Assignment-9)
-- [Øving 10: Stedsbaserte tjenester m.m](Assignment-10)
 
 ## Se andre emner
 Se [liste-over-emener](https://github.com/Knutakir/liste-over-emner) for en liste over alle emner jeg har hatt på NTNU.
