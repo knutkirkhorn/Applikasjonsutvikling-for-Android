@@ -12,5 +12,8 @@
 - [Øving 6: Sockets](Assignment-6)
 - [Øving 7: Datalagring](Assignment-7)
 
+## Prosjekt
+Se eget repository for prosjekt [her (KOMMER SNART)]().
+
 ## Se andre emner
 Se [liste-over-emener](https://github.com/Knutakir/liste-over-emner) for en liste over alle emner jeg har hatt på NTNU.
