@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Assignment-7</string>
+
+    <string name="color_blue_name">Blå</string>
+    <string name="color_red_name">Rød</string>
+    <string name="color_green_name">Grønn</string>
+    <string name="color_yellow_name">Gul</string>
+    <string name="color_cyan_name">Cyan</string>
+
+    <string name="color_blue_value">#3879e2</string>
+    <string name="color_red_value">#d13e3e</string>
+    <string name="color_green_value">#67b764</string>
+    <string name="color_yellow_value">#fce562</string>
+    <string name="color_cyan_value">#77e5df</string>
+
+    <string-array name="color_names">
+        <item>@string/color_blue_name</item>
+        <item>@string/color_red_name</item>
+        <item>@string/color_green_name</item>
+        <item>@string/color_yellow_name</item>
+        <item>@string/color_cyan_name</item>
+    </string-array>
+
+    <string-array name="color_values">
+        <item>@string/color_blue_value</item>
+        <item>@string/color_red_value</item>
+        <item>@string/color_green_value</item>
+        <item>@string/color_yellow_value</item>
+        <item>@string/color_cyan_value</item>
+    </string-array>
+</resources>

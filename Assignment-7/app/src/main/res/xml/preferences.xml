@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:title="Bakgrunnsfarge"
+        android:entries="@array/color_names"
+        android:entryValues="@array/color_values"
+        android:summary="Trykk her for å velge bakgrunnsfarge for listen"
+        android:key="backgroundColorPref"/>
+</PreferenceScreen>
