@@ -13,7 +13,7 @@
 - [Øving 7: Datalagring](Assignment-7)
 
 ## Prosjekt
-Se eget repository for prosjekt [her](https://github.com/Knutakir/Android-Sudoku).
+Se eget repository for prosjekt om Sudoko app [her](https://github.com/Knutakir/Android-Sudoku).
 
 ## Se andre emner
 Se [liste-over-emener](https://github.com/Knutakir/liste-over-emner) for en liste over alle emner jeg har hatt på NTNU.
