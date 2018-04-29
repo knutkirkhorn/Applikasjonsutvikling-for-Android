@@ -1,4 +1,4 @@
-# Applikasjonsutvikling-for-Android
+# Applikasjonsutvikling for Android
 Øvinger fra IINI4001 Applikasjonsutvikling for Android, høsten 2017, 3. klasse dataingeniør på NTNU.
 
 ## Øvinger
